@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kaiogerhardt.dev.br/Blog/sitemap.xml
