@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Blog</title>
-    <link href="https://kaiogerhardt.dev.br/Blog/feed.xml" rel="self" />
-    <link href="https://kaiogerhardt.dev.br/Blog" />
+    <link href="https://kaiogerhardt.dev.br/blog/feed.xml" rel="self" />
+    <link href="https://kaiogerhardt.dev.br/blog" />
     <updated>2022-03-05T11:59:47-03:00</updated>
     <author>
         <name>Kaio Gerhardt</name>
     </author>
-    <id>https://kaiogerhardt.dev.br/Blog</id>
+    <id>https://kaiogerhardt.dev.br/blog</id>
 
     <entry>
         <title>Guia Introdutório de Virtualenv</title>
         <author>
             <name>Kaio Gerhardt</name>
         </author>
-        <link href="https://kaiogerhardt.dev.br/Blog/guia-introdutorio-de-virtualenv.html"/>
-        <id>https://kaiogerhardt.dev.br/Blog/guia-introdutorio-de-virtualenv.html</id>
+        <link href="https://kaiogerhardt.dev.br/blog/guia-introdutorio-de-virtualenv.html"/>
+        <id>https://kaiogerhardt.dev.br/blog/guia-introdutorio-de-virtualenv.html</id>
 
         <updated>2022-03-05T11:59:47-03:00</updated>
             <summary>

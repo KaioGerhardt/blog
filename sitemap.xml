@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://kaiogerhardt.dev.br/Blog/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://kaiogerhardt.dev.br/blog/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://kaiogerhardt.dev.br/Blog/</loc>
+<loc>https://kaiogerhardt.dev.br/blog/</loc>
 </url>
 <url>
-<loc>https://kaiogerhardt.dev.br/Blog/guia-introdutorio-de-virtualenv.html</loc>
+<loc>https://kaiogerhardt.dev.br/blog/guia-introdutorio-de-virtualenv.html</loc>
 <lastmod>2022-03-05T11:59:47-03:00</lastmod>
 </url>
 </urlset>
