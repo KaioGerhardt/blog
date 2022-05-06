@@ -3,7 +3,7 @@
     <title>Blog</title>
     <link href="https://kaiogerhardt.dev.br/blog/feed.xml" rel="self" />
     <link href="https://kaiogerhardt.dev.br/blog" />
-    <updated>2022-05-06T14:05:20-03:00</updated>
+    <updated>2022-05-06T14:11:16-03:00</updated>
     <author>
         <name>Kaio Gerhardt</name>
     </author>
@@ -14,10 +14,10 @@
         <author>
             <name>Kaio Gerhardt</name>
         </author>
-        <link href="https://kaiogerhardt.dev.br/blog/o-que-e-e-como-funciona-a-heranca-em-java.html"/>
-        <id>https://kaiogerhardt.dev.br/blog/o-que-e-e-como-funciona-a-heranca-em-java.html</id>
+        <link href="https://kaiogerhardt.dev.br/blog/como-funciona-heranca-em-java.html"/>
+        <id>https://kaiogerhardt.dev.br/blog/como-funciona-heranca-em-java.html</id>
 
-        <updated>2022-05-06T14:05:20-03:00</updated>
+        <updated>2022-05-06T14:11:16-03:00</updated>
             <summary>
                 <![CDATA[
                     A Herança no é algo especifico da linguagem Java, mas sim um principio da POO (Programaço Orientada a Objetos) que consequentemente muito utilizada no mundo Java. Sendo assim um importante tema que todo programador Backend deveria saber, pois uma hora ou outra vai precisar utilizar&hellip;
